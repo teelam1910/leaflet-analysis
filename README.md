@@ -31,12 +31,10 @@ The new visualization tool for USGS earthquake data should be utilized to inform
 - **Data Layers:** Display earthquake attributes such as magnitude, depth, and time, with toggling options.
 - **Customizable Markers:** Customize markers to reflect earthquake properties.
 - **Filtering and Sorting:** Users can filter earthquakes based on location, magnitude, or time.
-- **Historical Data Visualization:** Show trends and patterns over time.
 - **Real-time Updates:** Keep the map updated with the latest earthquake data.
 - **Information Pop-ups:** Detailed information about earthquakes is displayed in pop-ups.
 - **Legend and Scale:** Include map symbols legend and scale bar.
-- **Responsive Design:** Ensure usability across different devices.
-- **Integration:** Allow integration with external datasets or APIs.
+
   
 
 ## Credits
