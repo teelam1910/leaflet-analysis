@@ -3,7 +3,7 @@
 
 
 
-[Uploading index.html…]()
+
 
 
 ## Resources
