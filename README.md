@@ -51,8 +51,8 @@ If there are any questions of concerns, I can be reached at:
 
 
 ## Resources
-- BCS Tutorting
-- BCS Class Activities
+- ASU/BCS Tutoring
+- ASU/BCS Class Activities
 - https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 - https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_week.geojson
 - https://leafletjs.com/
