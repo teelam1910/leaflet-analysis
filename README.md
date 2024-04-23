@@ -14,21 +14,16 @@ The US Geological Survey (USGS) seeks to create a visualization tool for their e
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
-
 - [Features](#features)
-
+- [Credits](#credits)
 - [Contact](#contact)
+- [Resources](#resources)
 
 ## Installation
 Leaflet, HTM, JavaScript, CSS
 
 ## Usage
 The new visualization tool for USGS earthquake data should be utilized to inform the public about seismic activity and its safety implications, as well as assist government decision-makers in allocating resources and mitigating risks effectively.
-
-## Credits
-Tiffany La Mar
-
 
 
 ## Features
@@ -42,8 +37,10 @@ Tiffany La Mar
 - **Legend and Scale:** Include map symbols legend and scale bar.
 - **Responsive Design:** Ensure usability across different devices.
 - **Integration:** Allow integration with external datasets or APIs.
+  
 
-
+## Credits
+Tiffany La Mar
 
 ## Contact
 If there are any questions of concerns, I can be reached at:
