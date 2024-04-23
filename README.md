@@ -2,7 +2,7 @@
 
 
 ## Website: 
-[website](https://teelam1910.github.io/leaflet-analysis/)
+Earthquake Visualization Link: [website](https://teelam1910.github.io/leaflet-analysis/)
 
 ## Description
 The US Geological Survey (USGS) seeks to create a visualization tool for their earthquake data. They collect vast amounts of global data daily but lack a meaningful display method. The project aims to develop a visualization solution to educate the public and government organizations about Earth's challenges, potentially increasing funding support. <br><br><br>
